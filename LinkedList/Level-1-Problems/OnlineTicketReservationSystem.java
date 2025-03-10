@@ -110,7 +110,7 @@ class TicketReservationSystem {
     }
 }
 
-public class Main {
+public class OnlineTicketReservationSystem {
     public static void main(String[] args) {
         TicketReservationSystem system = new TicketReservationSystem();
 

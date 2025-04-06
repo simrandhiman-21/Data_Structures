@@ -1,0 +1,37 @@
+[
+  {
+    "name": "John Doe",
+    "id": 101,
+    "email": "johndoe@example.com",
+    "phone": "9876543210",
+    "age": 25
+  },
+  {
+    "name": "Jane Smith",
+    "id": 102,
+    "email": "janesmith@example.com",
+    "phone": "8765432109",
+    "age": 30
+  },
+  {
+    "name": "Alice Johnson",
+    "id": 103,
+    "email": "alicej@example.com",
+    "phone": "7654321098",
+    "age": 28
+  },
+  {
+    "name": "Bob Williams",
+    "id": 104,
+    "email": "bobw@example.com",
+    "phone": "6543210987",
+    "age": 35
+  },
+  {
+    "name": "Charlie Brown",
+    "id": 105,
+    "email": "charlieb@example.com",
+    "phone": "5432109876",
+    "age": 40
+  }
+]
